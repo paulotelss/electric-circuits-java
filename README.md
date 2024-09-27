@@ -147,3 +147,7 @@ R1 + Req_paralelo + R4 = 15 + 20 + 5 = 40 ohms
 ```java
 Req_total = 40 ohms
 ```
+
+
+![Captura de tela 2024-09-27 100029](https://github.com/user-attachments/assets/59fc7003-aef6-414c-8997-833423e948d8)
+
